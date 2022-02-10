@@ -4,6 +4,8 @@ A collection of resources for frontend learners
 
 个人整理的前端学习资源。
 
+个人上岸经验请看：[点我](https://github.com/quincy-chiu/my-frontend-library/blob/master/personal-experience.md)
+
 ## 开发语言相关
 
 ### CSS
