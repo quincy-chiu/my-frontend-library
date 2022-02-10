@@ -2,7 +2,7 @@
 
 A collection of resources for frontend learners
 
-个人整理的前端学习资源，欢迎issue及PR补充
+个人整理的前端学习资源。
 
 ## 开发语言相关
 
@@ -34,7 +34,7 @@ A collection of resources for frontend learners
 
 [最全 ECMAScript 攻略](https://juejin.cn/post/6968269593206849572#heading-10)
 
-[2ality.com](https://2ality.com/index.html)：Axel博士的博客，含有JS相关的各类深入探讨，以及他提出的一些JS语法提案，可谓时间杀手，喜欢深入研究JS特性的同学可以阅读。
+[2ality.com](https://2ality.com/index.html)：Dr.Axel的博客，有对于JS各种语法特性的深入探讨，以及他的提案，喜欢深入研究JS特性的同学可以阅读。
 
 ### TypeScript
 
@@ -163,3 +163,5 @@ A collection of resources for frontend learners
 [egghead.io](egghead.io)
 
 [前端精读](https://github.com/ascoders/weekly/tree/v2)
+
+[Google Chrome Developers的Youtube频道](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
